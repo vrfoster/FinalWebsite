@@ -1,0 +1,158 @@
+html{
+    background-color: darkslategray;
+}
+
+nav{
+    background-color: darkslategray;
+}
+
+header{
+    font-size: 24px;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    margin-top: -7px;
+    margin-bottom: 10px;
+}
+
+
+
+hr{
+    color: white;
+}
+h4{
+    text-align: center;
+    font-size: 18px;
+    padding: 15px;
+    text-align-last: center;
+    list-style: circle;
+}
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    padding: 0px;
+    background-color:darkslategray;
+}
+
+p1{
+    font-size: 25px;
+}
+
+li{
+    text-align: center;
+    color: white;
+    background-color: none;
+}
+
+h2{
+    font-size: 32px;
+    color: white;
+}
+
+h1{
+    font-size: 55px;
+    color: white;
+}
+article{
+    margin-left: 100px;
+    margin-right: auto;
+    width: 1050px
+}
+
+h3{
+    font-size: 25px;
+    color:white;
+}
+
+main{
+    margin-left: 100px;
+}
+
+main{
+    background-color: black;
+}
+
+.box{
+    display: block;
+    float: left;
+    width: 20%;
+    padding: 10px;
+    padding-left: 12px;
+    color: white;
+    font-size: 20px;
+}
+
+.contact{
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 10px;
+    padding-left: 500px;
+    color: white;
+    font-size: 20px;
+}
+
+img{
+    width: 100%;
+    border-bottom-color: black;
+}
+
+.img {
+    position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+img:hover{
+    transform: scale(2,2);
+    transition: 1s transform;
+}
+{
+    
+}
+
+
+
+font-family: 'Nunito', sans-serif;
+
+
+
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background: white;
+}
+nav{
+    background: #000;
+    width: 100%;
+    overflow: auto; 
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+li{
+    float: left;
+}
+nav a{
+    width: 120px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: #000;
+    font-size: 17px;
+    color: white;
+    padding: 20px 10px;
+    font-family: sans-serif;
+}
